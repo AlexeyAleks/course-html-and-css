@@ -8,6 +8,6 @@ Tasks for the course on learning HTML and CSS.
 
 ## [project-first-million-pixel-perfect](https://alexeyaleks.github.io/course-html-and-css/first-million-pixel-perfect/index.html)
 
-## [project-cv](https://alexeyaleks.github.io/course-html-and-css/gh-pages/project-cv/resume.html)
+## [project-cv](https://alexeyaleks.github.io/course-html-and-css/project-cv/resume.html)
 
 ## [social-network](https://alexeyaleks.github.io/course-html-and-css/social-network/registration.html)
